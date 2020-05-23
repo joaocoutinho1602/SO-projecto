@@ -1,2 +1,4 @@
-# SO-projecto
-Projecto da cadeira Sistemas Operativos
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
